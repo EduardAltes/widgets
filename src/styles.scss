@@ -1,5 +1,10 @@
 // Override Bootstrap's variables
-$primary: #099fc4;
-$secondary: #ffa500;
+$primary: #000000;
+$secondary: #88223d;
+
+// accordion
+$accordion-button-active-bg: #ffC1C3;
+$accordion-button-bg: #ffdedf;
+
 
 @import "bootstrap/scss/bootstrap";
